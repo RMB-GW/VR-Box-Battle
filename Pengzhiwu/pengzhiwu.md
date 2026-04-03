@@ -1,0 +1,6 @@
+4.03 实现了箱子到达终点判定功能
+<p align="center">
+  <img width="742" height="411" src="goalarea.png">
+</p>
+
+3.27 本周熟悉了格物插花项目和unity基本操作
