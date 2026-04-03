@@ -1,4 +1,38 @@
-## 2026.3.26
+## 2026.3.28-4.3
+
+### 已完成
+
+1. 多难度环境搭建
+   搭建两种初始场景：搭建不同2种难度的初始场景（主要是改变货架位置和地面上其他物品的位置），并在初始动画最后提供ui界面以修改难度。
+   **EasyScene**
+   ![EasyScene](<./huangzeyan/EasyScene.png>)
+   **NormalScene**
+   ![NormalScene](<./huangzeyan/NormalScene.png">)
+
+2. 得分区的设定
+   通过脚本判定箱子落入该区域，对应增加血量
+
+3. 用户指引的ui搭建
+   游戏开始时，用文字的形式在页面上给用户介绍游戏背景，规则和操作方法。在游戏正式开始后，操作方法放在页面合适位置。
+
+4. 部署随机放箱子脚本
+   在上述两种初始场景中，部署之前完成的在地板上随机放箱子的脚本。注意物体不要重叠。
+
+5. 导入机器人模型
+   北京人形机器人创新中心有限公司-天轶2.0
+   - ![机器人相关图片](./images/robot_image.png) 
+
+6. 整理资产
+
+### 正在进行
+
+   机器人控制和VR导入
+
+### 有用的资料
+[Unity+pico4开发，包含按键设置](https://blog.csdn.net/weixin_44935602/article/details/135238417?fromshare=blogdetail&sharetype=blogdetail&sharerId=135238417&sharerefer=PC&sharesource=smartorange_123&sharefrom=from_link)
+[使用模拟器测试 PICO VR 项目](https://www.bilibili.com/video/BV1iu4y1W7zt/?share_source=copy_web&vd_source=18e2999a8a6d4ca3b918b9c1aef8ed49)
+
+## 2026.3.20-27
 
 ### 已完成
 
@@ -23,6 +57,3 @@
 ### 正在进行
 
 场景和玩法的进一步优化
-
-### 有用的资料
-[使用模拟器测试 PICO VR 项目](https://www.bilibili.com/video/BV1iu4y1W7zt/?share_source=copy_web&vd_source=18e2999a8a6d4ca3b918b9c1aef8ed49)
