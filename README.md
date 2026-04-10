@@ -8,16 +8,18 @@
 2. 机器人手部抓取动作
    采取物理锁定，消除了抓取过程中的抖动。
    按G抓取，按O松开。
-   **move_box**
-   ![move_box](<./images/Movebox.jpg>)
+   ![箱子抓取](<./images/Movebox.jpg>)
 
 3. 机器人移动
-   按W控制机器人移动，松开逐渐停止。（视频）
+   按W控制机器人移动，松开逐渐停止。
+   ![机器人移动](./images/robot_move03.gif)
 
-4. 机器人运动学控制（视频）
-   tab切换滑动条的手动模式和ik模式，ujikol分别控制xyz的+-
-
-   ![kinematics](<./images/kinematics.jpg>)
+4. 机器人运动学控制
+   tab切换滑动条的手动模式和ik模式。
+   ujikol分别控制xyz的+-
+   
+   ![机器人关节控制](./images/robot_move01.gif)
+   ![机器人关节控制](<./images/robot_move02.gif>)
 
 5. 将场景导入VR并配置手柄的移动旋转 
 
