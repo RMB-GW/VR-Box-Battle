@@ -1,6 +1,6 @@
 ## 2026/5/8
 搭建传送带 
-![传送带demo](./LeiYaoguang/conveyorBeltDemo.gif)
+![传送带demo](./images/conveyor_belt_demo.gif)
 ## 2026/4/17 
 搭建git服务
 ## 2026/4/10
