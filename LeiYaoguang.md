@@ -1,3 +1,6 @@
+## 2026/5/22
+优化传送带视觉效果和箱子运动，布置EasySence中传送带，实现传送带自动启停，可控制停止时间和间隔
+![传送带布置](./images/belt_demo2.gif)
 ## 2026/5/8
 搭建传送带 
 ![传送带demo](./images/conveyor_belt_demo.gif)
