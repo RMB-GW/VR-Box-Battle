@@ -11,6 +11,7 @@
 ![手柄控制手部移动](.\images\belt_demo2.gif)
 
 **3. 箱子落地消失**
+![箱子落地消失](images\box_destory.gif)
 
 ### 有用的资料
 
