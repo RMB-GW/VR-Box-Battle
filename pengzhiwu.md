@@ -1,6 +1,6 @@
 5.22 本周完成了箱子落地销毁功能
 
-![箱子落地消失](images\box_destory.gif)
+![箱子落地消失](images/box_destory.gif)
 
 4.17 优化移动逻辑
 
