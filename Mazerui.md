@@ -14,8 +14,8 @@
 - 调试并验证碰撞检测在不同地形和障碍物环境下的表现
 - 调整生成范围与高度参数，适配场景布局
 
-![alt text](a.png)
-![alt text](b.png)
+![alt text](images/a.png)
+![alt text](images/b.png)
 
 
 ## 2026.04.10 —— 机器人平衡控制系统
@@ -53,7 +53,7 @@
 - **`RobotBaseController.cs`**（机器人移动控制）：带加减速平滑的移动/旋转控制，支持力作用点偏移与刹车扭矩软化
 - **`RobotMassCenter.cs`**（重心调整）：延迟设置关节重心偏移，兼容 URDF Importer 初始化时序
 
-![alt text](c.png)
+![alt text](images/c.png)
 
 ## 2026.05.09 —— 传送带箱子生成系统（ConveyorBoxSpawner）
 
@@ -66,7 +66,7 @@
 - **即时补货**：区域内箱子全部离开后立即安排下一次生成，提高效率
 - 单次生成最多尝试 50 次防止重叠
 
-![alt text](d.png)
+![alt text](images/d.png)
 
 ## BUG 修复 —— 2026.05.09
 
