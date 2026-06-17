@@ -1,11 +1,11 @@
 2026.6.16
-批量清理机器人层级中 URDF 导入遗留的无效脚本（约 700 个），移除关节 UI 冗余 Revolute 勾选框；机器人可正常制作 Prefab，Console Missing Script 报错消失，关节控制界面更简洁。
+移除关节 UI 冗余 Revolute 勾选框；机器人可正常制作 Prefab，Console Missing Script 报错消失，关节控制界面更简洁。
 
 2026.6.5
 新增 GameTimerManager，在 GameHUD 显示关卡计时（Time: MM:SS）；进入游戏场景自动开始，返回主菜单停止。
 
 2026.5.29
-推进天轶机器人 Prefab 化，清理丢失脚本空组件；优化 LoadingManager 进度划分与 GoalZone 查找逻辑，提升 EasyScene 加载速度。
+推进机器人 Prefab 化，清理丢失脚本空组件；优化 LoadingManager 进度划分与 GoalZone 查找逻辑，提升 EasyScene 加载速度。
 
 2026.5.22
 实现 BoxController 多条件自动清理箱子（落地、低于高度阈值销毁，GoalZone 内保护不删），避免箱子堆积影响性能。
